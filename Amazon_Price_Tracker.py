@@ -31,7 +31,7 @@ def send_mail():
 	server.starttls()
 	server.ehlo()
 
-	server.login('einstein435@gmail.com', 'vkienybodpexzpew')
+	server.login('xxxxxxxx', 'xxxxxxxx')
 
 	subject = 'Price fell down!!!'
 	body = ('Go to this link - https://www.amazon.in/Samsung-2-5-inch-Internal-SATA-MZ-76Q1T0BW/dp/B07KSHCG3R/ref=sr_1_2?keywords=ssd+1tb&qid=1567943398&s=luggage&sr=8-2')
